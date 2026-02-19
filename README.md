@@ -37,7 +37,7 @@ myhomepage는 박란하를 소개하는 사이트입니다!
 
 ## 기술 스택
 
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: HTML, CSS
 - **Deployment**: Vercel
 - **Version Control**: Git & GitHub
 
